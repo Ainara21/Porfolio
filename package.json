@@ -1,0 +1,30 @@
+{
+  "name": "programacion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "aos": "^2.3.4",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.6",
+    "sass": "^1.32.12",
+    "sass-loader": "^10.1.1",
+    "scrollmagic": "^2.0.8",
+    "swiper": "^5.4.5",
+    "vue-awesome-swiper": "^4.1.1"
+  },
+  "description": "## Build Setup",
+  "main": "nuxt.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
